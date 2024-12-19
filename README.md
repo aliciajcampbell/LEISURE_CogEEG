@@ -10,7 +10,7 @@ Please contact me via email if you have any questions or require any additional 
 
 - Campbell, A. J., Anijärv, T. E., Pace, T., Treacy, C., Lagopoulos, J., Hermens, D. F., Levenstein, J. M., & Andrews, S. C. (2024). [Resting-state EEG correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study](https://doi.org/10.1016/j.neurobiolaging.2024.09.005). *Neurobiology of Aging*, 144, 68–77.
 
-    Analysis found in: `studies/Resting_EEG_Sustained_Attention`
+    Analysis found in: `studies/LEISURE_rsEEG_Sustained_Attention_T1`
 
 ## EEG Preprocessing and Spectral Analysis
 
