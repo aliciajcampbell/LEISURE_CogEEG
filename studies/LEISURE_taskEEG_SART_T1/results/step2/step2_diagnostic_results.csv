@@ -1,0 +1,31 @@
+,0
+durbin_watson_stat,2.0122090007370583
+durbin_watson_passed,Yes
+IV_Age_pearson_r,0.016894394524662674
+IV_Age_pearson_p,0.8723048031025388
+IV_Gender (F)_pearson_r,0.11058008447085876
+IV_Gender (F)_pearson_p,0.29132784719639787
+IV_Education years_pearson_r,0.04119628186609153
+IV_Education years_pearson_p,0.6950021068055581
+IV_Fz_MeanPostEvent_NoGo_ThetaAbsPow_pearson_r,-0.05392976723553046
+IV_Fz_MeanPostEvent_NoGo_ThetaAbsPow_pearson_p,0.6076577078918828
+linear_DVandIVs_passed,"No:IV_Age_pearson_p, IV_Gender (F)_pearson_p, IV_Education years_pearson_p, IV_Fz_MeanPostEvent_NoGo_ThetaAbsPow_pearson_p"
+rainbow_linearity,0.3928159291359989
+rainbow_linearity_passed,Yes
+breusch_pagan_p,0.4266153802269598
+f_test_p,0.4390345059326538
+breusch_pagan_passed,Yes
+f_test_passed,Yes
+goldfeld_quandt_p,0.7985670539722894
+goldfeld_quandt_passed,Yes
+high_pairwise_correlations_passed,Yes
+VIF_passed,No
+VIF_predictorsFailed,156.864404 const
+outlier_index,['HBA_0105_SART_T1']
+outliers_passed,No
+influence_largeCooksD_index,[]
+influence_passed,Yes
+meanOfResiduals,-7.556679296642195e-16
+meanOfResiduals_passed,Yes
+shapiroWilks_p,0.7614112914303134
+shapiroWilks_passed,Yes

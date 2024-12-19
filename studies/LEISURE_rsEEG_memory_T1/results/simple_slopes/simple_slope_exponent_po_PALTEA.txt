@@ -1,0 +1,26 @@
+iv=Exponent_po, dv=PALTEA_z, step 3 model p-val = 0.028
+
+sizes:
+group
+Mean           62
+High (≥1SD)    17
+Low (≤-1SD)    16
+Name: count, dtype: int64
+
+Simple Slope Analysis for Low (≤-1SD) Exponent_po:
+Slope: 0.552, SE: 0.146, t-value: 3.779, p-value: 0.000, 95% CI: [0.262, 0.843]
+
+Simple Slope Analysis for Mean Exponent_po:
+Slope: 0.321, SE: 0.100, t-value: 3.208, p-value: 0.002, 95% CI: [0.122, 0.520]
+
+Simple Slope Analysis for High (≥1SD) Exponent_po:
+Slope: 0.090, SE: 0.142, t-value: 0.637, p-value: 0.526, 95% CI: [-0.191, 0.372]
+
+Simple Slope Analysis for Low (≤-1SD) Age:
+Slope: 0.196, SE: 0.131, t-value: 1.500, p-value: 0.137, 95% CI: [-0.064, 0.456]
+
+Simple Slope Analysis for Mean Age:
+Slope: -0.035, SE: 0.099, t-value: -0.354, p-value: 0.724, 95% CI: [-0.231, 0.161]
+
+Simple Slope Analysis for High (≥1SD) Age:
+Slope: -0.266, SE: 0.154, t-value: -1.728, p-value: 0.087, 95% CI: [-0.572, 0.040]

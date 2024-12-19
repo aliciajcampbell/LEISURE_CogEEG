@@ -1,0 +1,26 @@
+iv=Exponent_fc, dv=DMSTC_z, step 3 model p-val = 0.047
+
+sizes:
+group
+Mean           64
+High (≥1SD)    14
+Low (≤-1SD)    13
+Name: count, dtype: int64
+
+Simple Slope Analysis for Low (≤-1SD) Exponent_fc:
+Slope: -0.487, SE: 0.159, t-value: -3.069, p-value: 0.003, 95% CI: [-0.803, -0.171]
+
+Simple Slope Analysis for Mean Exponent_fc:
+Slope: -0.267, SE: 0.107, t-value: -2.493, p-value: 0.015, 95% CI: [-0.480, -0.054]
+
+Simple Slope Analysis for High (≥1SD) Exponent_fc:
+Slope: -0.047, SE: 0.147, t-value: -0.320, p-value: 0.750, 95% CI: [-0.339, 0.245]
+
+Simple Slope Analysis for Low (≤-1SD) Age:
+Slope: -0.285, SE: 0.155, t-value: -1.844, p-value: 0.069, 95% CI: [-0.592, 0.022]
+
+Simple Slope Analysis for Mean Age:
+Slope: -0.065, SE: 0.105, t-value: -0.618, p-value: 0.538, 95% CI: [-0.273, 0.144]
+
+Simple Slope Analysis for High (≥1SD) Age:
+Slope: 0.155, SE: 0.148, t-value: 1.048, p-value: 0.298, 95% CI: [-0.139, 0.450]
