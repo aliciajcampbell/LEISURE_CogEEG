@@ -22,15 +22,15 @@ EEG preprocessing of resting-state data and spectral analysis were carried out i
 
 ## Variables
 
-### Cognitive measures:
+Cognitive measures:
 - Various Cambridge Neuropsychological Test Automated Battery outcome measures (CANTAB; *Cambridge Cognition, 2019*)
 - Sustained Attention to Response Task (SART; conducted using *E-Prime 2.0.10*)
 
-### EEG measures
+EEG measures:
 - Resting-state eyes closed and task based EEG (during SART)
 - Aperiodic measures - exponent (slope), offset (intercept)
 - Alpha measures - aperiodic-adjusted individual alpha power and individual alpha peak frequency
 
 ## Data
 
-Due to privacy restrictions, the data cannot be shared directly. However, if you are interested in a potential collaboration or have any questions, please contact me via email: [alicia.campbell@research.usc.edu.au](mailto:alicia.campbell@research.usc.edu.au)
+Due to privacy restrictions, the data cannot be shared. However, if you are interested in a potential collaboration or have any questions, please contact me via email: [alicia.campbell@research.usc.edu.au](mailto:alicia.campbell@research.usc.edu.au)
