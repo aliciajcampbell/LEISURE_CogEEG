@@ -8,13 +8,11 @@ The analyses are structured around two key research objectives:
 
 Each folder corresponds to a specific analysis or publication and includes a mix of Jupyter Notebooks, R code, and R analysis outputs.
 
-The data used for the analyses in this repository is part of the LEISURE study. For more details about the study design and protocol, please refer to the published protocol:
-
-- Treacy, C., Levenstein, J. M., Jefferies, A., Metse, A. P., Schaumberg, M. A., Villani, A., Boucas, A. P., Hermens, D. F., Lagopoulos, J., & Andrews, S. C. (2023). [The LEISURE Study: A Longitudinal Randomized Controlled Trial Protocol for a Multi-Modal Lifestyle Intervention Study to Reduce Dementia Risk in Healthy Older Adults](https://doi.org/10.3233/JAD-230193). *Journal of Alzheimer’s Disease*, 94(2).
+The data used for the analyses in this repository is part of the LEISURE study. For details about the study design and protocol, refer to [Treacy et al., (2023)](https://doi.org/10.3233/JAD-230193).
 
 ## Associated Publications
 
-- Campbell, A. J., Anijärv, T. E., Pace, T., Treacy, C., Lagopoulos, J., Hermens, D. F., Levenstein, J. M., & Andrews, S. C. (2024). [Resting-state EEG correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study](https://doi.org/10.1016/j.neurobiolaging.2024.09.005). *Neurobiology of Aging*, 144, 68–77.
+- [Campbell et al., (2024)](https://doi.org/10.1016/j.neurobiolaging.2024.09.005): Resting-state EEG correlates of sustained attention in healthy ageing: Cross-sectional findings from the LEISURE study
 
     Analysis found in: `studies/LEISURE_rsEEG_Sustained_Attention_T1`
 
