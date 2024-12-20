@@ -1,4 +1,6 @@
-# LEISURE_CogEEG
+# LEISURE CogEEG
+
+## Overview
 
 This repository contains the analysis code for my doctoral thesis and associated publications, investigating periodic and aperiodic EEG biomarkers of cognition in healthy older adults.
 
