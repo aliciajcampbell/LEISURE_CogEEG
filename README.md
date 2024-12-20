@@ -6,7 +6,7 @@ The analyses are structured around two key research objectives:
 1. Cross-sectional analyses exploring baseline relationships between EEG measures and cognitive performance, with particular emphasis on sustained attention and memory function
 2. Longitudinal investigations examining changes in cognitive performance and EEG measures following a multimodal lifestyle intervention targeting modifiable dementia risk factors
 
-Each folder corresponds to a specific analysis or publication and includes a mix of Jupyter Notebooks, R code, and R analysis outputs.
+Each folder corresponds to a specific analysis or publication and includes a mix of Jupyter Notebooks and R code.
 
 The data used for the analyses in this repository is part of the LEISURE study. For details about the study design and protocol, refer to [Treacy et al., (2023)](https://doi.org/10.3233/JAD-230193).
 
