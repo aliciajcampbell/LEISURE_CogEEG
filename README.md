@@ -1,6 +1,6 @@
 # LEISURE_CogEEG
 
-This repository contains the analysis code for my doctoral thesis and associated publications, focusing on the investigation of periodic and aperiodic EEG biomarkers of cognition in healthy older adults.
+This repository contains the analysis code for my doctoral thesis and associated publications, investigating periodic and aperiodic EEG biomarkers of cognition in healthy older adults.
 
 The analyses are structured around two key research objectives:
 1. Cross-sectional analyses exploring baseline relationships between EEG measures and cognitive performance, with particular emphasis on sustained attention and memory function
